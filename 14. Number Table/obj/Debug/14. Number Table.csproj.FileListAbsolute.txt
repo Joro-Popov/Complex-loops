@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Programming Basics - Хасково 2017\Решения\Demo\14. Number Table\bin\Debug\_14.Number_Table.exe.config
+C:\Users\JORO\Desktop\Programming Basics - Хасково 2017\Решения\Demo\14. Number Table\bin\Debug\_14.Number_Table.exe
+C:\Users\JORO\Desktop\Programming Basics - Хасково 2017\Решения\Demo\14. Number Table\bin\Debug\_14.Number_Table.pdb
+C:\Users\JORO\Desktop\Programming Basics - Хасково 2017\Решения\Demo\14. Number Table\obj\Debug\14. Number Table.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Programming Basics - Хасково 2017\Решения\Demo\14. Number Table\obj\Debug\14. Number Table.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Programming Basics - Хасково 2017\Решения\Demo\14. Number Table\obj\Debug\_14.Number_Table.exe
+C:\Users\JORO\Desktop\Programming Basics - Хасково 2017\Решения\Demo\14. Number Table\obj\Debug\_14.Number_Table.pdb
